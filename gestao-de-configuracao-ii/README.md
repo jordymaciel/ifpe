@@ -12,3 +12,7 @@ npm install
 npm install express
 
 ```
+
+## Execute o aplicativo com o seguinte comando:
+
+$ node app.js
