@@ -1,1 +1,14 @@
-# ifpe
+# Nome do Projeto
+
+Descrição curta sobre o que o projeto faz e para quem ele é.
+
+## Instalação
+
+Para instalar as dependências do projeto, execute:
+
+```bash
+npm install
+
+npm install express
+
+```
